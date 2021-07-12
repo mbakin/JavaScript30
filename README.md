@@ -9,4 +9,4 @@
 ### Completed projects:
 <hr>
 
-### 1. Guitar Kit : https://github.com/mbakin/JavaScript30/guitar-kit
+### 1. Guitar Kit : https://mbakin.github.io/JavaScript30/guitar-kit/
